@@ -1,0 +1,18 @@
+CMS_USERMANAGEMENT_API: "http://sbi-cms-user-management-extn:7071/sbi/usermanagement"
+ 
+ 
+KEY_ENC_KEY: "S5V8csbx5DR3turpLQErNk3GXP1szQsfDpoqlUju6Y4="
+  SECURITY_SYMMETRIC_ENCDEC_CIPHER_ALGORITHM: "AES/GCM/NoPadding"
+  BUCKET_NAME: "sbi-cms-sit"
+  ENC_KEY: "S5V8csbx5DR3turpLQErNk3GXP1szQsfDpoqlUju6Y4="
+ 
+ 
+ 
+ 
+Host : uatrac-scan.dcmsnonprod.bank.sbi
+Port : 6521
+Service name : DCMSDB
+ 
+username: blaze
+Password : Kv3Cf951
+Schemaname: CMS_GLOBAL
